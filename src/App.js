@@ -16,7 +16,7 @@ function TranslationWebsite() {
 
   const handleTranslation = async () => {
     const configuration = new Configuration({
-      apiKey: "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",
+      apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
 
     });
     const openai = new OpenAIApi(configuration);
